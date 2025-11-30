@@ -37,13 +37,14 @@
 📸 Screenshots 
 
 🏠 Calendar Home
-<img width="1179" height="2556" alt="Home Screenshot" src="https://github.com/user-attachments/assets/5ab71721-1b10-470d-8c8c-90748719c6b9" />
+<img width="1179" height="2556" alt="Add Event" src="https://github.com/user-attachments/assets/f8f09d26-d077-4089-9f02-255b1b6763dd" />
 
 📆 Selected Day + Events
 <img width="1179" height="2556" alt="Event Screenshot" src="https://github.com/user-attachments/assets/f7e1a9fa-6a5c-4db7-9eb6-e3df8e5b8bd5" />
 
 ➕ Add Event Screen
-<img width="1179" height="2556" alt="Add Event" src="https://github.com/user-attachments/assets/f8f09d26-d077-4089-9f02-255b1b6763dd" />
+<img width="1179" height="2556" alt="Home Screenshot" src="https://github.com/user-attachments/assets/5ab71721-1b10-470d-8c8c-90748719c6b9" />
+
 
 
 
